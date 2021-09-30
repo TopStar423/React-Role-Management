@@ -1,0 +1,1 @@
+export const getDateTimeString = (date: Date): string => date.toTimeString()
